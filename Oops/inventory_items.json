@@ -1,0 +1,53 @@
+{
+  "rice": [
+    {
+      "name": "brown rice",
+      "weight": 50,
+      "price": 250
+    },
+    {
+      "name": "white rice ",
+      "weight": 30,
+      "price": 150
+    },
+    {
+      "name": "arborio",
+      "weight": 10,
+      "price": 50
+    }
+  ],
+  "pulse": [
+    {
+      "name": "bean",
+      "weight": 40,
+      "price": 250
+    },
+    {
+      "name": "lentil ",
+      "weight": 20,
+      "price": 150
+    },
+    {
+      "name": "legumes",
+      "weight": 10,
+      "price": 50
+    }
+  ],
+  "wheat": [
+    {
+      "name": "spelt",
+      "weight": 40,
+      "price": 250
+    },
+    {
+      "name": "common wheat ",
+      "weight": 20,
+      "price": 150
+    },
+    {
+      "name": "triticale",
+      "weight": 10,
+      "price": 50
+    }
+  ]
+}

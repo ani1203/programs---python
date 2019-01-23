@@ -1,0 +1,668 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/ds/utilities/utility.py" line="263" />
+    <bookmark url="file://$PROJECT_DIR$/utilities/utility.py" description="# @author - anil mehta" line="4" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4d6bcda8-ea35-4b9f-a76b-3ea05d18b6e8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programs/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programs/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programs/.idea/programs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programs/venv/bin/activate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programs/venv/bin/activate.csh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programs/venv/bin/activate.fish" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programs/venv/bin/python" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programs/venv/bin/python3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programs/venv/bin/python3.6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programs/venv/lib64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../programs/venv/pyvenv.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python-programs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample/.idea/sample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample/a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample/replace.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample/venv/bin/activate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample/venv/bin/activate.csh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample/venv/bin/activate.fish" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample/venv/bin/python" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample/venv/bin/python3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample/venv/bin/python3.6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample/venv/lib64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sample/venv/pyvenv.cfg" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/programs/Stopwatch.py" />
+        <option value="$PROJECT_DIR$/programs/ToBinary.py" />
+        <option value="$PROJECT_DIR$/programs/Nibble.py" />
+        <option value="$PROJECT_DIR$/programs/Palindrome.py" />
+        <option value="$PROJECT_DIR$/programs/GuessAnswer.py" />
+        <option value="$PROJECT_DIR$/programs/FileSearch.py" />
+        <option value="$PROJECT_DIR$/programs/TemperatureCOnversion.py" />
+        <option value="$PROJECT_DIR$/programs/CouponNumber.py" />
+        <option value="$PROJECT_DIR$/programs/Permutation.py" />
+        <option value="$PROJECT_DIR$/programs/ToDecimal.py" />
+        <option value="$PROJECT_DIR$/programs/Binary.py" />
+        <option value="$PROJECT_DIR$/programs/FlipCoin.py" />
+        <option value="$PROJECT_DIR$/programs/SortMethods.py" />
+        <option value="$PROJECT_DIR$/programs/unordered.py" />
+        <option value="$PROJECT_DIR$/DataStructures/LinkedLIst.py" />
+        <option value="$PROJECT_DIR$/DataStructures/LinkedList.py" />
+        <option value="$PROJECT_DIR$/programs/Anagram.py" />
+        <option value="$PROJECT_DIR$/DataStructures/LInkedList.py" />
+        <option value="$PROJECT_DIR$/ds/utility/Stack.py" />
+        <option value="$PROJECT_DIR$/ds/utility/LinkedList.py" />
+        <option value="$PROJECT_DIR$/ds/utility/BinaryTree.py" />
+        <option value="$PROJECT_DIR$/DataStructures/TreeBinary.py" />
+        <option value="$PROJECT_DIR$/DataStructures/Hashing.py" />
+        <option value="$PROJECT_DIR$/ds/utility/Linked.py" />
+        <option value="$PROJECT_DIR$/ds/utility/Hash.py" />
+        <option value="$PROJECT_DIR$/DataStructures/p.py" />
+        <option value="$PROJECT_DIR$/ds/utilities/Linked.py" />
+        <option value="$PROJECT_DIR$/utilities/utility.py" />
+        <option value="$PROJECT_DIR$/ds/utilities/utility.py" />
+        <option value="$PROJECT_DIR$/DataStructures/Calendar.py" />
+        <option value="$PROJECT_DIR$/DataStructures/CalendarQueue.py" />
+        <option value="$PROJECT_DIR$/DataStructures/CalendarStack.py" />
+        <option value="$PROJECT_DIR$/DataStructures/Prime2d.py" />
+        <option value="$PROJECT_DIR$/DataStructures/PrimeAna2D.py" />
+        <option value="$PROJECT_DIR$/DataStructures/PrimeAnaQueue.py" />
+        <option value="$PROJECT_DIR$/DataStructures/PrimeAnaStack.py" />
+        <option value="$PROJECT_DIR$/DataStructures/unordered.py" />
+        <option value="$PROJECT_DIR$/DataStructures/BalancedParanthesis.py" />
+        <option value="$PROJECT_DIR$/DataStructures/Banking.py" />
+        <option value="$PROJECT_DIR$/DataStructures/BinaryTree.py" />
+        <option value="$PROJECT_DIR$/DataStructures/OrderedList.py" />
+        <option value="$PROJECT_DIR$/DataStructures/Palindrome.py" />
+        <option value="$PROJECT_DIR$/DataStructures/Hash.py" />
+        <option value="$PROJECT_DIR$/Oops/Inventory.py" />
+        <option value="$PROJECT_DIR$/Oops/inventory_items.json" />
+        <option value="$PROJECT_DIR$/Oops/regex.py" />
+        <option value="$PROJECT_DIR$/Oops/Regex.py" />
+        <option value="$PROJECT_DIR$/programs/EuclideanDistance.py" />
+        <option value="$PROJECT_DIR$/Oops/DeckCards.py" />
+        <option value="$PROJECT_DIR$/Oops/z.py" />
+        <option value="$PROJECT_DIR$/Oops/Card_Deck.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="308" />
+    <option name="y" value="39" />
+    <option name="width" value="644" />
+    <option name="height" value="646" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="BridgeLabz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BridgeLabz" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ds/utility" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ds/utility" />
+      <recent name="$PROJECT_DIR$/ds.utility" />
+      <recent name="$PROJECT_DIR$/DataStructures" />
+      <recent name="$PROJECT_DIR$/programs" />
+      <recent name="$PROJECT_DIR$/venv" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.CouponNumber">
+    <configuration name="BalancedParanthesis" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="BridgeLabz" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataStructures" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataStructures/BalancedParanthesis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Card_Deck" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="BridgeLabz" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Oops" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Oops/Card_Deck.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CouponNumber" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="BridgeLabz" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programs/CouponNumber.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DeckCards" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="BridgeLabz" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Oops" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Oops/DeckCards.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="z" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="BridgeLabz" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Oops" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Oops/z.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.DeckCards" />
+      <item itemvalue="Python.z" />
+      <item itemvalue="Python.BalancedParanthesis" />
+      <item itemvalue="Python.Card_Deck" />
+      <item itemvalue="Python.CouponNumber" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.CouponNumber" />
+        <item itemvalue="Python.Card_Deck" />
+        <item itemvalue="Python.BalancedParanthesis" />
+        <item itemvalue="Python.z" />
+        <item itemvalue="Python.DeckCards" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d6bcda8-ea35-4b9f-a76b-3ea05d18b6e8" name="Default Changelist" comment="" />
+      <created>1546855426657</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546855426657</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1669279" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4960815" weight="0.3110749" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39739415" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32899022" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32899022" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50391847" side_tool="true" weight="0.27687296" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32899022" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1669279" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4960815" visible="true" weight="0.27687296" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39739415" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32899022" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50391847" side_tool="true" weight="0.27687296" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32954547" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/functional_algorithm/ToBinary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functional_algorithm/BubbleSort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functional_algorithm/FileSearch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functional_algorithm/FlipCoin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functional_algorithm/InsertionSort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functional_algorithm/LeapYear.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functional_algorithm/Gambler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functional_algorithm/GuessAnswer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functional_algorithm/HarmonicNmbr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functional_algorithm/SortMethods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functional_algorithm/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructures/LinkedLIst.py" />
+    <entry file="file://$PROJECT_DIR$/DataStructures/test1.txt" />
+    <entry file="file://$PROJECT_DIR$/DataStructures/LinkedList.py" />
+    <entry file="file://$PROJECT_DIR$/functional_algorithm/Anagram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ds/utility/Stack.py" />
+    <entry file="file://$PROJECT_DIR$/DataStructures/TreeBinary.py" />
+    <entry file="file://$PROJECT_DIR$/ds/utility/BinaryTree.py" />
+    <entry file="file://$PROJECT_DIR$/DataStructures/Hashing.py" />
+    <entry file="file://$PROJECT_DIR$/ds/utility/Hash.py" />
+    <entry file="file://$PROJECT_DIR$/DataStructures/anil.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ds/utilities/Linked.py" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-1247971763/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="3657" column="12" lean-forward="true" selection-start-line="3657" selection-start-column="12" selection-end-line="3657" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructures/PrimeAnaStack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructures/BinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructures/CalendarQueue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructures/CalendarStack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructures/OrderedList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructures/Hash.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructures/PrimeAnaQueue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructures/Calendar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructures/PrimeAna2D.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructures/Palindrome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructures/unordered.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="662">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.6/json/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5175">
+          <caret line="347" selection-start-line="347" selection-end-line="347" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.6/json/decoder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="358" selection-start-line="358" selection-end-line="358" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructures/Banking.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="16" column="54" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Oops/Inventory.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="36" column="26" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Oops/Regex.py" />
+    <entry file="file://$PROJECT_DIR$/Oops/inventory_items.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="52" column="1" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Oops/regex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utilities/utility.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functional_algorithm/EuclideanDistance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructures/Prime2d.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ds/utilities/utility.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="848" column="28" lean-forward="true" selection-start-line="848" selection-start-column="28" selection-end-line="848" selection-end-column="28" />
+          <folding>
+            <element signature="e#175#204#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Oops/z.py" />
+    <entry file="file://$PROJECT_DIR$/Oops/stock.json" />
+    <entry file="file://$PROJECT_DIR$/Oops/DeckCards.py" />
+    <entry file="file://$PROJECT_DIR$/DataStructures/BalancedParanthesis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Oops/Card_Deck.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functional_algorithm/CouponNumber.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
