@@ -1,0 +1,24 @@
+{
+  "stock": [
+    {
+      "stoc kname": "amazon",
+      "number of share": 10,
+      "share price": 100
+    },
+    {
+      "stock name": "flipkart",
+      "number of share": 20,
+      "share price": 200
+    },
+    {
+      "stock name": "bing",
+      "number of share": 30,
+      "share price": 300
+    },
+    {
+      "stock name": "paytm",
+      "number of share": 100,
+      "share price": 3000
+    }
+  ]
+}
