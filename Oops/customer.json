@@ -1,0 +1,39 @@
+{
+  "customers": {
+    "anil": {
+      "amount": 70000,
+      "cname": "anil",
+      "noOfShare": 12
+    },
+    "punk": {
+      "cname": "punk",
+      "noOfShare": 2,
+      "amount": 50
+    },
+    "jack": {
+      "amount": 27467,
+      "cname": "jack",
+      "noOfShare": 1
+    },
+    "Hamid": {
+      "amount": 2000,
+      "cname": "Hamid",
+      "noOfShare": 10
+    },
+    "shobit": {
+      "amount": 15000,
+      "cname": "shobit",
+      "noOfShare": 16
+    },
+    "ankur": {
+      "amount": 25000,
+      "cname": "ankur",
+      "noOfShare": 15
+    },
+    "rajeev": {
+      "cname": "rajeev",
+      "noOfShare": 2,
+      "amount": 500
+    }
+  }
+}
